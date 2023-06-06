@@ -5,7 +5,7 @@
         </div>
         <ul class="md:flex md:items-center">
             <li class="md:mx-4">
-                <router-link class="text-xl hover:text-green-500" to="/">Sobre nosotros</router-link>
+                <router-link class="text-xl hover:text-green-500" to="/about">Sobre nosotros</router-link>
             </li>
             <li class="md:mx-4">
                 <router-link class="text-xl hover:text-green-500" to="/">Contactenos</router-link>
