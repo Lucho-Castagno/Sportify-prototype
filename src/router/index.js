@@ -5,7 +5,7 @@ import AboutView from '../views/AboutView.vue'
 const routes = [
   {
     path: '/',
-    name: 'home',
+    name: 'Home',
     component: HomeView
   },
   {

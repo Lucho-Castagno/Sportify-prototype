@@ -1,6 +1,17 @@
 <template>
-  <main>
-  </main>
+  <Welcome />
+  <Presentation />
 </template>
 
-<script setup></script>
+<script>
+import Welcome from '@/components/Home/Welcome.vue'
+import Presentation from '@/components/Home/Presentation.vue'
+
+export default {
+  name: 'Home',
+  components: {
+    Welcome,
+    Presentation
+  }
+}
+</script>
