@@ -1,15 +1,15 @@
 <template>
   <div
-    class="bg-slate-50 text-purple-900 py-3 5 px-6 shadow-xl md:flex justify-between items-center shadow-xl"
+    class="absolute w-screen bg-slate-50 text-purple-900 py-3 px-52 shadow-xl md:flex justify-between items-center shadow-xl"
   >
     <div class="flex items-center cursor-pointer">
       <router-link @click="MenuClose()" to="/" class="flex items-center">
         <img class="w-10 h-10 mr-2" src="@/assets/logo-black.png" alt="Logo de la aplicacion" />
-        <div class="text-xl font-bold">Sportify</div>
+        <div class="text-3xl font-bold">Sportify</div>
       </router-link>
     </div>
 
-    <span @click="MenuOpen()" class="absolute md:hidden right-6 top-2 cursor-pointer text-4xl">
+    <span @click="MenuOpen()" class="absolute md:hidden right-6 top-2 cursor-pointer text-3xl">
       <i :class="[open ? 'bi bi-x' : 'bi bi-list']"></i>
     </span>
     <ul
