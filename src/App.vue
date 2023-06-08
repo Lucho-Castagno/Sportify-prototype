@@ -1,4 +1,5 @@
 <template>
+  <div class="bg-slate-50"></div>
   <Navbar />
   <RouterView />
   <Footer />
