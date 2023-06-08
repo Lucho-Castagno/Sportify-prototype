@@ -1,8 +1,9 @@
 <template>
-  <div class="bg-slate-50"></div>
-  <Navbar />
-  <RouterView />
-  <Footer />
+  <div class="bg-slate-50">
+    <Navbar />
+    <RouterView />
+    <Footer />
+  </div>
 </template>
 
 <script>

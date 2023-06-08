@@ -28,7 +28,7 @@
                   <button type="submit" class="w-full text-white bg-sportify-purple-3 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded text-xl px-5 py-2 text-center">Ingresar</button>
                   <div class="w-auto flex flex-col justify-center items-center">
                     <p class="text-lg font-md text-gray-500 mb-4">
-                        ¿No tenés una cuenta? 
+                        ¿No tiene una cuenta? 
                     </p>
                     <button type="submit" class="w-2/6 text-white bg-sportify-purple-2 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-lg px-3 py-2.5 text-center">Registrarse</button>
                   </div>
