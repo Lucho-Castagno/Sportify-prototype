@@ -39,8 +39,10 @@ export default {
     let links = [
       { key: 1, name: 'Acerca de', link: '/about' },
       { key: 2, name: 'Contacto', link: '/contact' },
-      { key: 3, name: 'Iniciar sesión', link: '/login' },
-      { key: 4, name: 'Registrarse', link: '/register' }
+      { key: 3, name: 'Entrenamientos', link: '/training' },
+      { key: 4, name: 'Iniciar sesión', link: '/login' },
+      { key: 5, name: 'Registrarse', link: '/register' },
+
     ]
 
     function MenuOpen() {
