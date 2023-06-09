@@ -1,15 +1,15 @@
 <template>
-  <Login />
+    <Login />
 </template>
-  
+
 <script>
-import Login from '@/components/Sesion/Login.vue';
-  
+import Login from '@/components/Sesion/Login.vue'
+
 export default {
-  name: 'Home',
-  components: {
+name: 'LoginView',
+components: {
     Login
-  }
+}
 }
 </script>
   

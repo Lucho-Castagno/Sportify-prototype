@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AboutView from '../views/AboutView.vue'
 import LoginView from '../views/LoginView.vue'
+import TrainingView from '../views/TrainingView.vue'
 
 const routes = [
   {
@@ -16,8 +17,13 @@ const routes = [
   },
   {
     path: '/login',
-    name: 'Login',
+    name: 'LoginView',
     component: LoginView
+  },
+  {
+    path: '/training',
+    name: 'TrainingView',
+    component: TrainingView
   },
   {
     path: '/:catchAll(.*)',
