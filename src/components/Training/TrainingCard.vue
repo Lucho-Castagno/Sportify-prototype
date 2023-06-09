@@ -1,14 +1,14 @@
 <template>  
     <div class="flex align-center justify-center">
-        <div class="max-w-sm h-60 p-6 bg-white border border-gray-200 rounded-lg shadow flex flex-col justify-between">
-            <div class="flex justify-between">
+        <div class="min-w-xs max-w-md h-60 p-6 bg-white border border-gray-200 rounded-lg shadow flex flex-col justify-between">
+            <div class="justify-between mb-[15px] md:mb-0 md:flex ">
                 <div class="flex justify-start">
                     <img class="max-w-[10%] max-h[10%] mb-5 mr-2" src="@/assets/pelota.png" alt="image description">
                     <a href="#">
-                        <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900">Entrenamiento X</h5>
+                        <h5 class="mb-2 font-semibold tracking-tight text-gray-900 text-[1.25em]">Entrenamiento X</h5>
                     </a>
                 </div>
-                <div class=" px-2 border font-bold rounded-md bg-sky-100 flex items-center">
+                <div class=" px-2 py-[1em] border font-bold rounded-md bg-sky-100 flex items-center h-[1em]">
                         <h2 class="m-0">RESISTENCIA</h2>
                 </div>
                 
