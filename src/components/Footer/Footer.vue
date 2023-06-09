@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-neutral-700 h-96 w-screen flex justify-center">
+    <div class="bg-neutral-700 h-96 w-full flex justify-center">
         <div class="w-full h-full flex items-center flex-col justify-center gap-6">
             <img src="@/assets/logo-white.png" alt="logo de la pagina" class="w-28 h-28">
             <div class="flex gap-3">

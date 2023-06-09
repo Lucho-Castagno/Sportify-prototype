@@ -1,5 +1,5 @@
 <template>
-    <div class="xl:px-52 lg:px-32 md:px-16 px-8  2xl:w-screen 2xl:h-screen py-16 grid md:grid-cols-2 grid-rows-2 md:grid-rows-1 md:gap-7">
+    <div class="xl:px-52 lg:px-32 md:px-16 px-8  2xl:w-full 2xl:h-screen py-16 grid md:grid-cols-2 grid-rows-2 md:grid-rows-1 md:gap-7">
         <div class="flex flex-col justify-center">
             <h1 class="2xl:text-7xl md:text-5xl text-4xl font-bold pb-8">Planea o accede a tus entrenamientos</h1>
             <p class="text-gray-700 md:text-3xl text-xl mb-8">Sportify permite a entrenadores de deportes grupales realizar un seguimiento de su grupo y a los jugadores calificar los entrenamientos y recibir devoluciones.</p>

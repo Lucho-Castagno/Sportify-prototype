@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-teal-400 h-screen w-screen"></div>
+    <div class="bg-teal-400 h-screen w-full"></div>
 </template>
 
 <script>
