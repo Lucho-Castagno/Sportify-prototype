@@ -11,7 +11,6 @@
                 <div class=" px-2 py-[1em] border font-bold rounded-md bg-sky-100 flex items-center h-[1em]">
                         <h2 class="m-0">RESISTENCIA</h2>
                 </div>
-                
             </div>
             <p class="mb-3 font-normal text-gray-500">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
             <p class="mb-3 font-normal text -md text-gray-500">6/9/2023</p>
