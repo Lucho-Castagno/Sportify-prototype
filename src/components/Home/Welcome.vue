@@ -6,7 +6,7 @@
             <button class="rounded-lg bg-purple-700 text-slate-50 w-min py-3 px-6 text-2xl">Registrarse</button>
         </div>
         <div class="flex justify-center items-center rounded">
-            <img src="@/assets/hero-image.jpg" alt="foto de distintas pelotas para distintos deportes" class="w-max h-max rounded-lg">
+            <img src="@/assets/hero-image.jpg" alt="foto de una cancha de rugby" class="w-max h-max rounded-lg">
         </div>
         
     </div>

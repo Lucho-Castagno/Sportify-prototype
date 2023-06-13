@@ -3,7 +3,7 @@
         <div class="min-w-xs max-w-md h-60 p-6 bg-white border border-gray-200 rounded-lg shadow flex flex-col justify-between">
             <div class="justify-between mb-[15px] md:mb-0 md:flex ">
                 <div class="flex justify-start">
-                    <img class="max-w-[10%] max-h[10%] mb-5 mr-2" src="@/assets/pelota.png" alt="image description">
+                    <img class="max-w-[10%] max-h[10%] mb-5 mr-2" src="@/assets/pelota.png" alt="ícono de una pelota de rugby">
                     <a href="#">
                         <h5 class="mb-2 font-semibold tracking-tight text-gray-900 text-[1.25em]">Entrenamiento X</h5>
                     </a>

@@ -21,7 +21,7 @@
                 <tbody>
                     <tr class="bg-sportify-purple-2 border-b border-white-400">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Pedro Gomez</div>
                                 <div class="font-normal">pedro.gomez@gmail.com</div>
@@ -36,7 +36,7 @@
                     </tr>
                     <tr class="bg-sportify-purple-2 border-b border-white-400 text-lg">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Juan Rodriguez</div>
                                 <div class="font-normal">juan.rodriguez@gmail.com</div>
@@ -51,7 +51,7 @@
                     </tr>
                     <tr class="bg-sportify-purple-2 border-b border-white-400">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Martín Perez</div>
                                 <div class="font-normal">martin.perez@gmail.com</div>
@@ -66,7 +66,7 @@
                     </tr>
                     <tr class="bg-sportify-purple-2 border-b border-white-400">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Jorge Rodriguez</div>
                                 <div class="font-normal">jorge.rodriguez@gmail.com</div>
@@ -81,7 +81,7 @@
                     </tr>
                     <tr class="bg-sportify-purple-2 border-white-40">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Juan Fernandez</div>
                                 <div class="font-normal">juan.fernandez@gmail.com</div>

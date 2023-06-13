@@ -21,7 +21,7 @@
                 <tbody>
                     <tr class="bg-gray-500 border-b border-white-400">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Jorge Rodriguez</div>
                                 <div class="font-normal">jorge.rodriguez@gmail.com</div>
@@ -34,7 +34,7 @@
                     </tr>
                     <tr class="bg-gray-500 border-white-40">
                         <th scope="row" class="flex items-center px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
-                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Profile picture">
+                            <img class="w-10 h-10 rounded-full" src="@/assets/profile.png" alt="Imágen de perfil del jugador">
                             <div class="pl-3">
                                 <div class="text-base font-semibold">Juan Fernandez</div>
                                 <div class="font-normal">juan.fernandez@gmail.com</div>

@@ -4,7 +4,7 @@
             <router-link to="/team">
                 <div class="justify-between mb-[15px] md:mb-0 md:flex ">
                     <div class="flex justify-start">
-                        <img class="max-w-[10%] max-h[10%] mb-5 mr-2" src="@/assets/team.png" alt="image description">
+                        <img class="max-w-[10%] max-h[10%] mb-5 mr-2" src="@/assets/team.png" alt="icono representativo de un equipo">
                         
                             <h5 class="mb-2 font-semibold tracking-tight text-gray-900 text-[1.35em]">Equipo X</h5>
                         
