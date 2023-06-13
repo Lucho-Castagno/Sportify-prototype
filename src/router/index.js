@@ -4,6 +4,7 @@ import AboutView from '../views/AboutView.vue'
 import LoginView from '../views/LoginView.vue'
 import TrainingView from '../views/TrainingView.vue'
 import TeamView from '../views/TeamView.vue'
+import TeamsView from '../views/TeamsView.vue'
 
 
 const routes = [
@@ -26,6 +27,11 @@ const routes = [
     path: '/training',
     name: 'TrainingView',
     component: TrainingView
+  },
+  {
+    path: '/teams',
+    name: 'TeamsView',
+    component: TeamsView
   },
   {
     path: '/team',

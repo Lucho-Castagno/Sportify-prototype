@@ -1,5 +1,5 @@
 <template>
-    <Header title="Equipo Ejemplo" description="En esta sección podés adeministrar todo lo correspondiente a este equipo." />
+    <Header title="Equipo Ejemplo" description="En esta sección puedes adeministrar todo lo correspondiente a este equipo." />
     <div class="flex justify-center">    
         <TeamActions @players="selectedAction='Players'" @training="selectedAction='TrainingList'" @statistics="selectedAction='Statistics'"/>
     </div>

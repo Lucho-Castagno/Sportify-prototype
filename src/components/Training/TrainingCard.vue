@@ -12,7 +12,7 @@
                         <h2 class="m-0">RESISTENCIA</h2>
                 </div>
             </div>
-            <p class="mb-3 font-normal text-gray-500">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
+            <p class="mb-3 font-normal text-gray-500">Entrenamiento de resistencia con el foco en mejorar aspectos defensivos.</p>
             <p class="mb-3 font-normal text -md text-gray-500">6/9/2023</p>
 
         </div>
