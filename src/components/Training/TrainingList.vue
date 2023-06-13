@@ -1,6 +1,7 @@
 <template>
         <div class="flex justify-center pt-5">
-                <select id="large" class="block w-[10%] px-4 py-3 text-xl text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500">
+                <h2 class="text-2xl font-semibold mr-5 mt-2">Mes: </h2>
+                <select id="large" class="block w-[10%] px-4 py-3 text-lg text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500">
                 <option value="Enero">Enero</option>
                 <option value="Febrero">Febrero</option>
                 <option value="Marzo">Marzo</option>
@@ -14,7 +15,7 @@
                 <option value="Diciembre">Diciembre</option>
                 </select>
          </div>
-        <div class="flex h-full items-center justify-center">
+         <div class="flex h-full items-center justify-center">
                 <div class="grid grid-cols-1  lg:grid-cols-2 2xl:grid-cols-3 gap-10 2xl:p-10 xs:p-15 sm:p-20">
                         <TrainingCard />
                         <TrainingCard />

@@ -14,6 +14,7 @@ import TeamActions from '@/components/Team/TeamActions.vue'
 import Players from '../components/Team/Players.vue';
 import PlayersRequests from '../components/Team/PlayersRequests.vue';
 import TrainingList from '../components/Training/TrainingList.vue';
+import Statistics from '../components/Team/Statistics.vue';
 
 export default {
 name: 'TeamView',
@@ -24,6 +25,7 @@ components: {
     PlayersRequests,
     Players,
     TrainingList,
+    Statistics
 },
 data() {
     return {selectedAction: 'Players'}
