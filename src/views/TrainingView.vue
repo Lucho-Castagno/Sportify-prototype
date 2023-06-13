@@ -1,5 +1,5 @@
 <template>
-    <Header />
+    <Header title="Entrenamientos" description="En esta sección podés adeministrar los entrenamientos de cada mes." />
     <TrainingList />
 </template>
 
