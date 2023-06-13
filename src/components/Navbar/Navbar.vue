@@ -4,7 +4,7 @@
   >
     <div class="flex items-center cursor-pointer">
       <router-link @click="MenuClose()" to="/" class="flex items-center">
-        <img class="w-10 h-10 mr-2" src="@/assets/logo-black.png" alt="Logo de la aplicacion" />
+        <img class="w-10 h-10 mr-2" src="@/assets/rugby-ball.png" alt="Logo de la aplicacion" />
         <h1 class="text-4xl font-bold">Sportify</h1>
       </router-link>
     </div>
