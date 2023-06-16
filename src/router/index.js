@@ -9,7 +9,7 @@ import TeamsView from '../views/TeamsView.vue'
 
 const routes = [
   {
-    path: '/login',
+    path: '/teams',
     name: 'Home',
     component: HomeView
   },
@@ -19,7 +19,7 @@ const routes = [
     component: AboutView
   },
   {
-    path: '/',
+    path: '/login',
     name: 'LoginView',
     component: LoginView
   },
@@ -29,7 +29,7 @@ const routes = [
     component: TrainingView
   },
   {
-    path: '/teams',
+    path: '/',
     name: 'TeamsView',
     component: TeamsView
   },
