@@ -36,8 +36,8 @@ export default {
     },
     data() {
         return {
-            playersActive: false,
-            trainingActive: true,
+            playersActive: true,
+            trainingActive: false,
             statisticsActive: false
         }
     }
