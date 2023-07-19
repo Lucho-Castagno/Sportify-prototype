@@ -1,0 +1,74 @@
+{
+    "jugadores": [
+        {
+            "id": 1,
+            "nombre": "Luciano",
+            "apellido": "Perozzi",
+            "posicionId": 1,
+            "equipoId": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Andres",
+            "apellido": "Andolini",
+            "posicionId": 2,
+            "equipoId": 2
+        },
+        {
+            "id": 3,
+            "nombre": "Jorge",
+            "apellido": "Rodriguez",
+            "posicionId": 2,
+            "equipoId": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Alberto",
+            "apellido": "Gonzales",
+            "posicionId": 1,
+            "equipoId": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Cristian",
+            "apellido": "Lobo",
+            "posicionId": 2,
+            "equipoId": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Adrian",
+            "apellido": "Sosa",
+            "posicionId": 1,
+            "equipoId": 2
+        },
+        {
+            "id": 7,
+            "nombre": "Ricardo",
+            "apellido": "Bizon",
+            "posicionId": 2,
+            "equipoId": 2
+        },
+        {
+            "id": 8,
+            "nombre": "Fernando",
+            "apellido": "Campos",
+            "posicionId": 1,
+            "equipoId": 1
+        },
+        {
+            "id": 9,
+            "nombre": "Ernesto",
+            "apellido": "Campos",
+            "posicionId": 2,
+            "equipoId": 1
+        },
+        {
+            "id": 10,
+            "nombre": "Miguel",
+            "apellido": "Fernandez",
+            "posicionId": 1,
+            "equipoId": 2
+        }
+    ]
+}
