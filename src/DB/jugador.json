@@ -4,6 +4,7 @@
             "id": 1,
             "nombre": "Luciano",
             "apellido": "Perozzi",
+            "mail": "lucianoPerozzi@gmail.com",
             "posicionId": 1,
             "equipoId": 1
         },
@@ -11,6 +12,7 @@
             "id": 2,
             "nombre": "Andres",
             "apellido": "Andolini",
+            "mail": "andresAndolini@gmail.com",
             "posicionId": 2,
             "equipoId": 2
         },
@@ -18,6 +20,7 @@
             "id": 3,
             "nombre": "Jorge",
             "apellido": "Rodriguez",
+            "mail": "jorgeRodriguez@gmail.com",
             "posicionId": 2,
             "equipoId": 1
         },
@@ -25,6 +28,7 @@
             "id": 4,
             "nombre": "Alberto",
             "apellido": "Gonzales",
+            "mail": "albertoGonzales@gmail.com",
             "posicionId": 1,
             "equipoId": 2
         },
@@ -32,6 +36,7 @@
             "id": 5,
             "nombre": "Cristian",
             "apellido": "Lobo",
+            "mail": "cristianLobo@gmail.com",
             "posicionId": 2,
             "equipoId": 1
         },
@@ -39,6 +44,7 @@
             "id": 6,
             "nombre": "Adrian",
             "apellido": "Sosa",
+            "mail": "adrianSosa@gmail.com",
             "posicionId": 1,
             "equipoId": 2
         },
@@ -46,6 +52,7 @@
             "id": 7,
             "nombre": "Ricardo",
             "apellido": "Bizon",
+            "mail": "ricardoBizon@gmail.com",
             "posicionId": 2,
             "equipoId": 2
         },
@@ -53,6 +60,7 @@
             "id": 8,
             "nombre": "Fernando",
             "apellido": "Campos",
+            "mail": "fernandoCampos@gmail.com",
             "posicionId": 1,
             "equipoId": 1
         },
@@ -60,6 +68,7 @@
             "id": 9,
             "nombre": "Ernesto",
             "apellido": "Campos",
+            "mail": "ernestoCampos@gmail.com",
             "posicionId": 2,
             "equipoId": 1
         },
@@ -67,6 +76,7 @@
             "id": 10,
             "nombre": "Miguel",
             "apellido": "Fernandez",
+            "mail": "miguelFernandez@gmail.com",
             "posicionId": 1,
             "equipoId": 2
         }
