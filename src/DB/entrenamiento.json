@@ -1,0 +1,16 @@
+{
+    "entrenamientos": [
+        {   
+            "id": 1, 
+            "entradaEnCalor": 10, 
+            "tipo": "Resistencia", 
+            "fecha": "2023-10-11" 
+        },
+        {   
+            "id": 2, 
+            "entradaEnCalor": 5, 
+            "tipo": "Velocidad", 
+            "fecha": "2023-11-15" 
+        }
+    ]
+}

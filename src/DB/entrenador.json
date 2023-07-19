@@ -1,0 +1,28 @@
+{
+    "entrenadores": [
+        {   
+            "id": 1, 
+            "nombre": "Pedro", 
+            "apellido": "Sanchez", 
+            "email": "pedrosanchez@gmail.com" 
+        },
+        { 
+            "id": 2, 
+            "nombre": "Carlos", 
+            "apellido": "Rodriguez", 
+            "email": "carlosrodriguez@gmail.com" 
+        },
+        { 
+            "id": 3, 
+            "nombre": "Roberto", 
+            "apellido": "Perez", 
+            "email": "robertoperez@gmail.com" 
+        },
+        { 
+            "id": 4, 
+            "nombre": "Jorge", 
+            "apellido": "Alvarez", 
+            "email": "jorgealvarez@gmail.com" 
+        }
+    ]
+}

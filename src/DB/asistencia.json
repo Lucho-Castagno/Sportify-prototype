@@ -1,38 +1,16 @@
 {
-    "jugadores": [
-        {
-            "id": 1,
-            "nombre": "luciano",
-            "apellido": "perozzi"
+    "asistencias": [
+        {   
+            "id": 1, 
+            "jugador_id": 2, 
+            "entrenamiento_id": 1, 
+            "calificacion": 7 
         },
         {
-            "id": 2,
-            "nombre": "andres",
-            "apellido": "andolini"
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-
-        },
-        {
-            
+            "id": 2, 
+            "jugador_id": 1, 
+            "entrenamiento_id": 1, 
+            "calificacion": 9 
         }
     ]
 }
