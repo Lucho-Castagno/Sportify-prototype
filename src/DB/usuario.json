@@ -1,0 +1,117 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Luciano",
+            "apellido": "Perozzi",
+            "contraseña": "0123456789",
+            "mail": "lucianoPerozzi@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 2,
+            "nombre": "Andres",
+            "apellido": "Andolini",
+            "contraseña": "0123456789",
+            "mail": "andresAndolini@gmail.com",
+            "rol": "judador"
+            
+        },
+        {
+            "id": 3,
+            "nombre": "Jorge",
+            "apellido": "Rodriguez",
+            "contraseña": "0123456789",
+            "mail": "jorgeRodriguez@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 4,
+            "nombre": "Alberto",
+            "apellido": "Gonzales",
+            "contraseña": "0123456789",
+            "mail": "albertoGonzales@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 5,
+            "nombre": "Cristian",
+            "apellido": "Lobo",
+            "contraseña": "0123456789",
+            "mail": "cristianLobo@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 6,
+            "nombre": "Adrian",
+            "apellido": "Sosa",
+            "contraseña": "0123456789",
+            "mail": "adrianSosa@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 7,
+            "nombre": "Ricardo",
+            "apellido": "Bizon",
+            "contraseña": "0123456789",
+            "mail": "ricardoBizon@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 8,
+            "nombre": "Fernando",
+            "apellido": "Campos",
+            "contraseña": "0123456789",
+            "mail": "fernandoCampos@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 9,
+            "nombre": "Ernesto",
+            "apellido": "Campos",
+            "contraseña": "0123456789",
+            "mail": "ernestoCampos@gmail.com",
+            "rol": "judador"
+        },
+        {
+            "id": 10,
+            "nombre": "Miguel",
+            "apellido": "Fernandez",
+            "contraseña": "0123456789",
+            "mail": "miguelFernandez@gmail.com",
+            "rol": "judador"
+        },
+        {   
+            "id": 11, 
+            "nombre": "Pedro", 
+            "apellido": "Sanchez",
+            "contraseña": "0123456789", 
+            "mail": "pedrosanchez@gmail.com",
+            "rol": "entrenador"
+        },
+        { 
+            "id": 12, 
+            "nombre": "Carlos", 
+            "apellido": "Rodriguez",
+            "contraseña": "0123456789", 
+            "mail": "carlosrodriguez@gmail.com",
+            "rol": "entrenador" 
+        },
+        { 
+            "id": 13, 
+            "nombre": "Roberto", 
+            "apellido": "Perez",
+            "contraseña": "0123456789",
+            "mail": "robertoperez@gmail.com",
+            "rol": "entrenador" 
+        },
+        { 
+            "id": 14, 
+            "nombre": "Jorge", 
+            "apellido": "Alvarez",
+            "contraseña": "0123456789", 
+            "mail": "jorgealvarez@gmail.com",
+            "rol": "entrenador" 
+        }
+    ]
+}

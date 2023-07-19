@@ -2,81 +2,61 @@
     "jugadores": [
         {
             "id": 1,
-            "nombre": "Luciano",
-            "apellido": "Perozzi",
-            "mail": "lucianoPerozzi@gmail.com",
+            "usuarioId": 1,
             "posicionId": 1,
             "equipoId": 1
         },
         {
             "id": 2,
-            "nombre": "Andres",
-            "apellido": "Andolini",
-            "mail": "andresAndolini@gmail.com",
+            "usuarioId": 2,
             "posicionId": 2,
             "equipoId": 2
         },
         {
             "id": 3,
-            "nombre": "Jorge",
-            "apellido": "Rodriguez",
-            "mail": "jorgeRodriguez@gmail.com",
+            "usuarioId": 3,
             "posicionId": 2,
             "equipoId": 1
         },
         {
             "id": 4,
-            "nombre": "Alberto",
-            "apellido": "Gonzales",
-            "mail": "albertoGonzales@gmail.com",
+            "usuarioId": 4,
             "posicionId": 1,
             "equipoId": 2
         },
         {
             "id": 5,
-            "nombre": "Cristian",
-            "apellido": "Lobo",
-            "mail": "cristianLobo@gmail.com",
+            "usuarioId": 5,
             "posicionId": 2,
             "equipoId": 1
         },
         {
             "id": 6,
-            "nombre": "Adrian",
-            "apellido": "Sosa",
-            "mail": "adrianSosa@gmail.com",
+            "usuarioId": 6,
             "posicionId": 1,
             "equipoId": 2
         },
         {
             "id": 7,
-            "nombre": "Ricardo",
-            "apellido": "Bizon",
-            "mail": "ricardoBizon@gmail.com",
+            "usuarioId": 7,
             "posicionId": 2,
             "equipoId": 2
         },
         {
             "id": 8,
-            "nombre": "Fernando",
-            "apellido": "Campos",
-            "mail": "fernandoCampos@gmail.com",
+            "usuarioId": 8,
             "posicionId": 1,
             "equipoId": 1
         },
         {
             "id": 9,
-            "nombre": "Ernesto",
-            "apellido": "Campos",
-            "mail": "ernestoCampos@gmail.com",
+            "usuarioId": 9,
             "posicionId": 2,
             "equipoId": 1
         },
         {
             "id": 10,
-            "nombre": "Miguel",
-            "apellido": "Fernandez",
-            "mail": "miguelFernandez@gmail.com",
+            "usuarioId": 10,
             "posicionId": 1,
             "equipoId": 2
         }
