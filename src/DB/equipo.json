@@ -1,0 +1,12 @@
+{
+    "equipos": [
+        {
+            "id": 1,
+            "nombre": "Gimnasia y Esgrima de La Plata"
+        },
+        {
+            "id": 2,
+            "nombre": "Boca Juniors"
+        }
+    ]
+}

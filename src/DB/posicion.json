@@ -1,0 +1,12 @@
+{
+    "posiciones": [
+        {
+            "id": 1,
+            "descripcion": "ataque"
+        },
+        {
+            "id": 2,
+            "descripcion": "defensa"
+        }
+    ]
+}
