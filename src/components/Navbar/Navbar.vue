@@ -1,7 +1,7 @@
+
 <template>
   <div
-    class="bg-slate-50 text-purple-900 py-3.5 px-6 shadow md:flex justify-between items-center"
-  >
+    class="bg-slate-50 text-purple-900 py-3.5 px-6 shadow md:flex justify-between items-center dark:bg-slate-800">
     <div class="flex items-center cursor-pointer">
       <router-link @click="MenuClose()" to="/" class="flex items-center">
         <img class="w-10 h-10 mr-2" src="@/assets/rugby-ball.png" alt="Logo de la aplicacion" />
@@ -33,6 +33,7 @@
 
 <script>
 import { ref } from 'vue'
+
 export default {
   name: 'Navbar',
   setup() {
@@ -43,6 +44,7 @@ export default {
       { key: 3, name: 'Equipos', link: '/teams' },
       { key: 4, name: 'Iniciar sesión', link: '/login' },
       { key: 5, name: 'Registrarse', link: '/register' },
+      { key: 6, name: 'Accesibilidad', link: '/accesibility' },
 
     ]
 

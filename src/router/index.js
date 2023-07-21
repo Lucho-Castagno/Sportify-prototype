@@ -5,6 +5,7 @@ import LoginView from '../views/LoginView.vue'
 import TrainingView from '../views/TrainingView.vue'
 import TeamView from '../views/TeamView.vue'
 import TeamsView from '../views/TeamsView.vue'
+import AccesibilityView from '../views/AccesibilityView.vue'
 
 
 const routes = [
@@ -37,6 +38,11 @@ const routes = [
     path: '/team',
     name: 'TeamView',
     component: TeamView
+  },
+  {
+    path: '/accesibility',
+    name: 'AccesibilityView',
+    component: AccesibilityView
   },
   {
     path: '/:catchAll(.*)',
