@@ -1,7 +1,7 @@
 
 <template>
   <div
-    class="bg-slate-50 text-purple-900 py-3.5 px-6 shadow md:flex justify-between items-center dark:bg-slate-800">
+    class="bg-slate-50 text-purple-700 dark:text-purple-50 py-3.5 px-6 border-b-2 border-purple-700 dark:border-purple-50 md:flex justify-between items-center dark:bg-slate-800 dark:border-b-2 dark:border-purple-50">
     <div class="flex items-center cursor-pointer">
       <router-link @click="MenuClose()" to="/" class="flex items-center">
         <img class="w-10 h-10 mr-2" src="@/assets/rugby-ball.png" alt="Logo de la aplicacion" />
@@ -14,7 +14,7 @@
     </span>
 
     <ul
-      class="lg:flex lg:items-center lg:px-0 px-10 lg:pb-0 pb-10 bg-slate-50 lg:static absolute lg:w-auto w-full top-14 duration-700 ease-in"
+      class="lg:flex lg:items-center lg:px-0 px-10 lg:pb-0 pb-10 bg-slate-50 dark:bg-slate-800 lg:static absolute lg:w-auto w-full top-14 duration-700 ease-in"
       :class="[open ? 'left-0' : 'left-[-100%]']"
     >
       <li class="lg:mx-4 lg:my-0 my-6" v-for="link in links" :key="link.key">

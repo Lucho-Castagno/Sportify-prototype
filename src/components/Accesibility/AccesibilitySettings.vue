@@ -2,15 +2,15 @@
 <template>
   <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
       <div class="w-full rounded-lg  md:mt-0 sm:max-w-md xl:p-0">
-          <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
-            <h1 class="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-3xl ">
+          <div class="p-6 space-y-4 md:space-y-6 sm:p-8 text-purple-700 dark:text-purple-50">
+            <h1 class="text-xl font-bold leading-tight tracking-tight md:text-3xl ">
                   Opciones de accesibilidad
             </h1>
             <div class="space-y-4 md:space-y-6">
                 <div>
-                    <label for="theme" class="block mb-2 text-md font-medium text-gray-900">Tema</label>
+                    <label for="theme" class="block mb-2 text-md font-medium">Tema</label>
                     <div class="flex justify-center">
-                        <label for="theme" class="mb-2 mr-6 text-md font-medium text-gray-900">Claro</label>
+                        <label for="theme" class="mb-2 mr-6 text-md font-medium">Claro</label>
                         <button @click="cambiarTema()" class="w-10 h-5 rounded-full bg-white flex items-center transition duration-300 focus:outline-none shadow">
                             <div id="switch-toggle" class="w-6 h-6 relative rounded-full transition duration-500 transform bg-yellow-500 -translate-x-2 p-1 text-white dark:bg-gray-700 dark:translate-x-full">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -20,11 +20,11 @@
                                 </svg>
                             </div>
                         </button>
-                        <label for="theme" class="mb-2 ml-6 text-md font-medium text-gray-900">Oscuro</label>
+                        <label for="theme" class="mb-2 ml-6 text-md font-medium">Oscuro</label>
                     </div>
                 </div>
                 <div>
-                    <label for="font-size" class="block mb-2 text-md font-medium text-gray-900">Tamaño de la letra</label>
+                    <label for="font-size" class="block mb-2 text-md font-medium">Tamaño de la letra</label>
                 
                     <div class="flex flex-col space-y-2 p-2 w-80">
                         <input type="range" class="w-full" min="1" max="3" step="1"/>
